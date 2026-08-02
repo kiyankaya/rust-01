@@ -1,2 +1,3 @@
-# myrust
-Bu repository rust programlama dilini anlamak icin var.
+rust_01
+This repository also focuses on fundamental topics while learning Rust.
+
